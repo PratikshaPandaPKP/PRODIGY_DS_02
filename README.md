@@ -15,5 +15,3 @@
    - Distribution of survival based on passenger class.
    - Survival rates based on gender and class.
    - Ages of passengers who survived and those who didn't.
-
-Overall, the analysis provides insights into factors influencing survival on the Titanic, such as gender, passenger class, and age. These findings can inform further analysis and modeling tasks.
